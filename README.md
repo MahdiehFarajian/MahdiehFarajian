@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @MahdiehFarajian
+- 👀 I’m interested in becoming Python Backend Developer
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python projects
+- 📫 How to reach me Telegram @Mahdieh_fr9
+- ⚡ Fun fact: becoming a programmer used to be easier
